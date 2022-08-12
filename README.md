@@ -1,4 +1,4 @@
-# readme <h1 align="center">Hi 👋, I'm kuntal sardar</h1>
+<h1 align="center">Hi 👋, I'm kuntal sardar</h1>
 <h3 align="center">A student web developer and data structure from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-developer007&label=Profile%20views&color=0e75b6&style=flat" alt="ks-developer007" /> </p>
