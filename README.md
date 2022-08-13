@@ -36,7 +36,7 @@
 </tbody>
 </table>
 
-
+<img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
  <h2 align = 'center'> Web Development</h2>
 <table>
 <tbody>
@@ -53,7 +53,7 @@
 <td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
+
 <tr>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
