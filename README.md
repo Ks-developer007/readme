@@ -88,7 +88,10 @@
   </a> &nbsp;&nbsp;
   <a href="mailto:sardarkuntal273@gmail.com">
     <img align="left" alt="sardarkuntal273@gmail.com | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/bimal.sardar.186590/">
+   <img align="left" alt="Kuntal2003 | Instagram" width="50px" padding-down="34px"
+        src= "https://user-images.githubusercontent.com/109293787/184503909-260834e4-150f-4947-b3e1-6079e1685951.png" /></a>&nbsp;&nbsp;
 
 
 
