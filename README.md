@@ -41,21 +41,6 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
 
 
 <td align="center" width="33%">
@@ -69,6 +54,9 @@
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+</td>
  
  </tr>
 </tbody>
@@ -83,29 +71,20 @@
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/kuntal-sardar-08a64a247/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Kuntal Sardar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SatYug26">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <a href="https://www.instagram.com/kuntal2003/">
+    <img align="left" alt="Kuntal2003 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/satyu.26/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:goyalsatyam8@gmail.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:sardarkuntal273@gmail.com">
+    <img align="left" alt="sardarkuntal273@gmail.com | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
 
 
 <br><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
-<!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
-![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
-
-
-<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
-
+           ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ks-developer007)
 
 
 ## ⭐️ From [Ks-developer007](https://github.com/Ks-developer007)
