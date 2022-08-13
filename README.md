@@ -36,12 +36,12 @@
 </tbody>
 </table>
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
-    <h2 align = 'center'> Web Development</h2>
+
+ <h2 align = 'center'> Web Development</h2>
 <table>
 <tbody>
  <tr>
-
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
 
 <td align="center" width="30%">
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
