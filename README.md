@@ -44,19 +44,19 @@
  <tr>
 
 
-<td align="center" width="20%">
+<td align="center" background-color="white"width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
-<td align="center" width="20%">
+<td align="center" background-color="white" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" background-color="white" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
 <tr>
-<td align="center" width="33%">
+<td align="center" background-color="white" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
  
@@ -74,6 +74,9 @@
 
 
 <p align='center'![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ks-developer007&theme=radical)<img  align= 'right' src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="200px" /></p>
+
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
+
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
