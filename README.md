@@ -36,8 +36,9 @@
 </tbody>
 </table>
 
-<img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
+
  <h2 align = 'center'> Web Development</h2>
+    <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
 <table>
 <tbody>
  <tr>
