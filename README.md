@@ -13,26 +13,31 @@
     <li> Please email via  <b>sardarkuntal273@gmail.com</b> to reach me 📫.</li>
     <li>Interst in WEB development and data structures <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"></li>
     <li>Fun fact - Coder <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  without coffee☕ </li>
-  
+   </ul>
 
-### My skills :woman_technologist:
-- **Competitive Coding**
+<br>
+<h2 align= 'center' height= "230vh">My skills :woman_technologist:</h2>
+   <li>Competitive Coding<b></li>
+
 <table>
+
 <tbody>
+ 
  <tr>
+  
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="https://user-images.githubusercontent.com/109293787/184477503-6b22ab19-f933-4b8e-8fba-4af003400a33.png"> 
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height=60px src="https://user-images.githubusercontent.com/109293787/184477631-62a28cec-3e5b-4a5f-82b7-a328f9ad8a0f.png"> 
 </td>
 </tr>
 </tbody>
 </table>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-- **Web Development**
+    <h2 align = 'center'> Web Development</h2>
 <table>
 <tbody>
  <tr>
@@ -69,74 +74,40 @@
 </tbody>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
 
-### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
 
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
-    
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
 
-<br> <br>
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shreyachatterjee05/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Shreya549">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ks-developer007&theme=radical)<img  align= 'right' src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SatYug26">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/satyu.26/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:goyalsatyam8@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+
 <br><br>
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
+<!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
+![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
 
-⭐️ From [Shreya549](https://github.com/Shreya549)
+
+<!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
+
+
+
+## ⭐️ From [Ks-developer007](https://github.com/Ks-developer007)
+
 
