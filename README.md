@@ -84,7 +84,7 @@
 
 <br><br>
 
-           ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ks-developer007)
+<!--            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ks-developer007) -->
 
 
 ## ⭐️ From [Ks-developer007](https://github.com/Ks-developer007)
