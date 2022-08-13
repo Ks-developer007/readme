@@ -72,10 +72,12 @@
 
 
 
+<h2 align ='center'><b>code stats</h2>
 
-<p align='center'![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ks-developer007&theme=radical)<img  align= 'right' src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="200px" /></p>
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ks-developer007&theme=radical)<img  align= 'right' src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="200px" /></p>
+
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid"">
 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
