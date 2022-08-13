@@ -41,18 +41,19 @@
 <table>
 <tbody>
  <tr>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
 
-<td align="center" width="30%">
+
+<td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
-<td align="center" width="30%">
+<td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 
-<td align="center" width="30%">
+<td align="center" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="190">
 <tr>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
