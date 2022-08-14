@@ -98,8 +98,8 @@
 
 
 <br><br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hwnogisc4vqp7wakov7quuaeje)
 
-<!--            ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ks-developer007) -->
 
 
 ## ⭐️ From [Ks-developer007](https://github.com/Ks-developer007)
