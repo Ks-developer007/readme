@@ -95,7 +95,7 @@
    <img align="left" alt="Kuntal2003 | Instagram" width="50px" padding-down="34px"
         src= "https://user-images.githubusercontent.com/109293787/184503909-260834e4-150f-4947-b3e1-6079e1685951.png" /></a>&nbsp;&nbsp;
 
-[![@kuntal007's Holopin board](https://holopin.io/api/user/board?user=kuntal007)](https://holopin.io/@kuntal007
+[![@kuntal007's Holopin board](https://holopin.io/api/user/board?user=kuntal007)](https://holopin.io/@kuntal007)
 
 <br><br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hwnogisc4vqp7wakov7quuaeje)
