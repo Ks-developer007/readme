@@ -1,4 +1,4 @@
-### <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
  <h2 align = "center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm <b>Kuntal</b> 👽<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
 <!-- <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/> -->
@@ -98,7 +98,6 @@
 [![@kuntal007's Holopin board](https://holopin.io/api/user/board?user=kuntal007)](https://holopin.io/@kuntal007)
 
 <br><br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hwnogisc4vqp7wakov7quuaeje)
 
 
 
