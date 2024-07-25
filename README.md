@@ -19,19 +19,7 @@
 <h2 align= 'center' height= "230vh">My skills :woman_technologist:</h2>
    <li>Competitive Coding<b></li>
 
-<table>
 
-<tbody>
- 
- <tr>
-  
-
-<td align="center" width="50%">
-<img height=60px src="https://user-images.githubusercontent.com/109293787/184477631-62a28cec-3e5b-4a5f-82b7-a328f9ad8a0f.png"> 
-</td>
-</tr>
-</tbody>
-</table>
 
 
  <h2 align = 'center'> Web Development</h2>
