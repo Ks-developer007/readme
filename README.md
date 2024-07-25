@@ -8,7 +8,7 @@
   <li>
     <i>I am a enthusiast progarmmer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></i></li>
   <li><i>Currently i am working on <b>web development</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and <b>IT networkings<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></li>
-  <li><b> I’m pushing  a Bachelor's degree in computer science honours 💼
+  <li><b> I’m pushing  for a Bachelor's degree in computer science honors 💼
 </li>
     <li> Please email via  <b>sardarkuntal273@gmail.com</b> to reach me 📫.</li>
     <li>Interst in WEB development and data structures <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"></li>
@@ -25,9 +25,6 @@
  
  <tr>
   
-<td align="center" width="50%">
-<img height=60px src="https://user-images.githubusercontent.com/109293787/184477503-6b22ab19-f933-4b8e-8fba-4af003400a33.png"> 
-</td>
 
 <td align="center" width="50%">
 <img height=60px src="https://user-images.githubusercontent.com/109293787/184477631-62a28cec-3e5b-4a5f-82b7-a328f9ad8a0f.png"> 
@@ -44,7 +41,7 @@
  <tr>
 
 
-<td align="center" background-color="white"width="20%">
+<td align="center" background-color="white" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
 <td align="center" background-color="white" width="20%">
